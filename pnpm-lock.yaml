@@ -18,8 +18,8 @@ dependencies:
     specifier: ^3.5.0
     version: 3.5.0(astro@2.7.0)(react@18.2.0)
   '@fuyun/generative-ai':
-    specifier: 0.1.3
-    version: 0.1.3
+    specifier: 0.2.1
+    version: 0.2.1
   '@zag-js/slider':
     specifier: ^0.16.0
     version: 0.16.0
